@@ -24,7 +24,3 @@ To successfully run and develop the AlphaZeroNano project, you'll need the follo
 
 - `torch`
 - `numpy`
-
-## Acknowledgments
-
-Inspired by the groundbreaking work on AlphaZero by DeepMind, this project serves as an educational tool to understand the underlying principles and mechanisms in a simplified context.
